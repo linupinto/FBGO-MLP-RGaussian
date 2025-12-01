@@ -1,8 +1,8 @@
 Datasets Used for the Experiments
 List of Datasets
-📌 Iris Dataset
-📌 DryBeans Dataset
-📌 CIFAR Dataset
+ Iris Dataset
+ DryBeans Dataset
+ CIFAR Dataset
 Dataset Availability on Kaggle
 The datasets used in these experiments are publicly available on Kaggle:
 
